@@ -53,3 +53,5 @@ https://raw.githubusercontent.com/3xp10it/pic/master/binnavi-4.png
 https://raw.githubusercontent.com/3xp10it/pic/master/3xp10it-1.png
 https://raw.githubusercontent.com/3xp10it/pic/master/cve-2010-2883-1.png
 https://raw.githubusercontent.com/3xp10it/pic/master/windbg_kb.png
+https://raw.githubusercontent.com/3xp10it/pic/master/cve-2012-0158-2.png
+https://raw.githubusercontent.com/3xp10it/pic/master/cve-2012-0158-1.png
