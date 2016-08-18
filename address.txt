@@ -62,3 +62,4 @@ https://raw.githubusercontent.com/3xp10it/pic/master/cve-2012-0158-6.png
 https://raw.githubusercontent.com/3xp10it/pic/master/cve-2012-0158-7.png
 https://raw.githubusercontent.com/3xp10it/pic/master/heap-1.png
 https://raw.githubusercontent.com/3xp10it/pic/master/heap-2.png
+https://raw.githubusercontent.com/3xp10it/pic/master/heap-3.png
