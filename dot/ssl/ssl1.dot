@@ -1,0 +1,5 @@
+digraph a{
+rankdir=LR
+"B"->"S"[label="1.B给出协议版本号,一个客户端生成的随机数(Client random),以及客户端支持的加密方法"]
+}
+

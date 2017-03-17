@@ -1,0 +1,5 @@
+digraph b{
+rankdir=LR
+"B"->"S"[label="2.S确认双方使用的加密方法,并给出数字证书,以及一个服务器生成的随机数(Server random)";dir="back"]
+}
+

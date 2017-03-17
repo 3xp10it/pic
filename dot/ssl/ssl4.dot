@@ -1,0 +1,5 @@
+digraph f{
+rankdir="LR"
+"S" -> "B"[label="4.S使用自己的私钥,来获取B发来的随机数(即Premaster secret)"]
+}
+

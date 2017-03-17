@@ -1,0 +1,5 @@
+digraph c{
+rankdir="LR"
+"B"->"S"[label="3.B确认数字证书有效,然后生成一个新的随机数(Premaster secret),并使用数字证书中的公钥,加密这个随机数,发给S"]
+}
+
