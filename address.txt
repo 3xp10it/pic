@@ -116,3 +116,6 @@ https://raw.githubusercontent.com/3xp10it/pic/master/域环境批量安装msi.jp
 https://raw.githubusercontent.com/3xp10it/pic/master/文本码表.png
 https://raw.githubusercontent.com/3xp10it/pic/master/正向代理.png
 https://raw.githubusercontent.com/3xp10it/pic/master/词典快照.png
+https://raw.githubusercontent.com/3xp10it/pic/master/.git/logs/refs/remotes/origin/master
+https://raw.githubusercontent.com/3xp10it/pic/master/.git/refs/remotes/origin/master
+https://raw.githubusercontent.com/3xp10it/pic/master/xwafLogo.png
