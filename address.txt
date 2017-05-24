@@ -172,3 +172,4 @@ https://raw.githubusercontent.com/3xp10it/pic/master/baiduWuBi.png
 https://raw.githubusercontent.com/3xp10it/pic/master/hhkb.png
 https://raw.githubusercontent.com/3xp10it/pic/master/hhkb-ctr2esc.png
 https://raw.githubusercontent.com/3xp10it/pic/master/js1.png
+https://raw.githubusercontent.com/3xp10it/pic/master/js2.png
