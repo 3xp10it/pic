@@ -197,3 +197,10 @@ https://raw.githubusercontent.com/3xp10it/pic/master/csapp7-3.png
 https://raw.githubusercontent.com/3xp10it/pic/master/xwaf.png
 https://raw.githubusercontent.com/3xp10it/pic/master/csapp7-4.png
 https://raw.githubusercontent.com/3xp10it/pic/master/csapp8-1.png
+https://raw.githubusercontent.com/3xp10it/pic/master/.git/ORIG_HEAD
+https://raw.githubusercontent.com/3xp10it/pic/master/csapp9-1.png
+https://raw.githubusercontent.com/3xp10it/pic/master/reg1.png
+https://raw.githubusercontent.com/3xp10it/pic/master/reg2.png
+https://raw.githubusercontent.com/3xp10it/pic/master/reg3.png
+https://raw.githubusercontent.com/3xp10it/pic/master/reg4.png
+https://raw.githubusercontent.com/3xp10it/pic/master/reg5.png
