@@ -210,3 +210,4 @@ https://raw.githubusercontent.com/3xp10it/pic/master/csapp9-4.png
 https://raw.githubusercontent.com/3xp10it/pic/master/csapp9-5.png
 https://raw.githubusercontent.com/3xp10it/pic/master/csapp10-1.png
 https://raw.githubusercontent.com/3xp10it/pic/master/csapp9-6.png
+https://raw.githubusercontent.com/3xp10it/pic/master/csapp10-2.png
