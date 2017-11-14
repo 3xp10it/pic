@@ -147,3 +147,5 @@ https://raw.githubusercontent.com/3xp10it/pic/master/正向代理.png
 https://raw.githubusercontent.com/3xp10it/pic/master/猪猪侠的白帽学习路线.png
 https://raw.githubusercontent.com/3xp10it/pic/master/词典快照.png
 https://raw.githubusercontent.com/3xp10it/pic/master/babyxor.png
+https://raw.githubusercontent.com/3xp10it/pic/master/babyxor_answer.png
+https://raw.githubusercontent.com/3xp10it/pic/master/babyxor_show.png
