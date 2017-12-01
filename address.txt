@@ -150,3 +150,4 @@ https://raw.githubusercontent.com/3xp10it/pic/master/babyxor.png
 https://raw.githubusercontent.com/3xp10it/pic/master/babyxor_answer.png
 https://raw.githubusercontent.com/3xp10it/pic/master/babyxor_show.png
 https://raw.githubusercontent.com/3xp10it/pic/master/kali3.png
+https://raw.githubusercontent.com/3xp10it/pic/master/resolve.png
