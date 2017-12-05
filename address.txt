@@ -156,3 +156,4 @@ https://raw.githubusercontent.com/3xp10it/pic/master/lmst1-2.png
 https://raw.githubusercontent.com/3xp10it/pic/master/reloc1.png
 https://raw.githubusercontent.com/3xp10it/pic/master/reloc2.png
 https://raw.githubusercontent.com/3xp10it/pic/master/reloc3.png
+https://raw.githubusercontent.com/3xp10it/pic/master/reloc4.png
