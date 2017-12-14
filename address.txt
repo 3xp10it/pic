@@ -159,3 +159,7 @@ https://raw.githubusercontent.com/3xp10it/pic/master/reloc3.png
 https://raw.githubusercontent.com/3xp10it/pic/master/reloc4.png
 https://raw.githubusercontent.com/3xp10it/pic/master/reloc5.png
 https://raw.githubusercontent.com/3xp10it/pic/master/reloc6.png
+https://raw.githubusercontent.com/3xp10it/pic/master/liceses.png
+https://raw.githubusercontent.com/3xp10it/pic/master/pycharm_scrapy.png
+https://raw.githubusercontent.com/3xp10it/pic/master/reloc7.jpeg
+https://raw.githubusercontent.com/3xp10it/pic/master/reloc8.jpeg
