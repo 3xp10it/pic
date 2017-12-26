@@ -165,3 +165,5 @@ https://raw.githubusercontent.com/3xp10it/pic/master/reloc7.jpeg
 https://raw.githubusercontent.com/3xp10it/pic/master/reloc8.jpeg
 https://raw.githubusercontent.com/3xp10it/pic/master/markdown.png
 https://raw.githubusercontent.com/3xp10it/pic/master/css.png
+https://raw.githubusercontent.com/3xp10it/pic/master/remote_gdb1.png
+https://raw.githubusercontent.com/3xp10it/pic/master/remote_gdb2.png
