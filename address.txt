@@ -170,3 +170,5 @@ https://raw.githubusercontent.com/3xp10it/pic/master/remote_gdb2.png
 https://raw.githubusercontent.com/3xp10it/pic/master/ida_usb_flex1.jpg
 https://raw.githubusercontent.com/3xp10it/pic/master/ida_usb_flex2.png
 https://raw.githubusercontent.com/3xp10it/pic/master/ida_usb_flex3.png
+https://raw.githubusercontent.com/3xp10it/pic/master/ida_usb_debug_option1.png
+https://raw.githubusercontent.com/3xp10it/pic/master/ida_usb_debug_option2.png
