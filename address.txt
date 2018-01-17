@@ -175,3 +175,6 @@ https://raw.githubusercontent.com/3xp10it/pic/master/ida_usb_debug_option2.png
 https://raw.githubusercontent.com/3xp10it/pic/master/brida.png
 https://raw.githubusercontent.com/3xp10it/pic/master/xenc.png
 https://raw.githubusercontent.com/3xp10it/pic/master/crack_deb.png
+https://raw.githubusercontent.com/3xp10it/pic/master/alert.png
+https://raw.githubusercontent.com/3xp10it/pic/master/crack_deb2.png
+https://raw.githubusercontent.com/3xp10it/pic/master/purchase_ref.png
