@@ -179,3 +179,4 @@ https://raw.githubusercontent.com/3xp10it/pic/master/alert.png
 https://raw.githubusercontent.com/3xp10it/pic/master/crack_deb2.png
 https://raw.githubusercontent.com/3xp10it/pic/master/purchase_ref.png
 https://raw.githubusercontent.com/3xp10it/pic/master/anti_anti_debug.png
+https://raw.githubusercontent.com/3xp10it/pic/master/mynav.png
