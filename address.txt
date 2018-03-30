@@ -184,3 +184,7 @@ https://raw.githubusercontent.com/3xp10it/pic/master/ascii码表.png
 https://raw.githubusercontent.com/3xp10it/pic/master/人机交流.png
 https://raw.githubusercontent.com/3xp10it/pic/master/learning_pyramid.png
 https://raw.githubusercontent.com/3xp10it/pic/master/alfred_quick_switch_app.png
+https://raw.githubusercontent.com/3xp10it/pic/master/alfred_quick_switch_app1.png
+https://raw.githubusercontent.com/3xp10it/pic/master/alfred_quick_switch_app2.png
+https://raw.githubusercontent.com/3xp10it/pic/master/alfred_quick_switch_app3.png
+https://raw.githubusercontent.com/3xp10it/pic/master/alfred_quick_switch_app4.png
