@@ -194,3 +194,4 @@ https://raw.githubusercontent.com/3xp10it/pic/master/livermore.png
 https://raw.githubusercontent.com/3xp10it/pic/master/klib.png
 https://raw.githubusercontent.com/3xp10it/pic/master/mvd1.jpeg
 https://raw.githubusercontent.com/3xp10it/pic/master/mvd2.png
+https://raw.githubusercontent.com/3xp10it/pic/master/livemoreBS.png
